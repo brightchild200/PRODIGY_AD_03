@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/041296e2-bc4a-4846-8c9d-cf7ce3f7623f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/StopwatchApp.git
+   git clone https://github.com/brightchild200/PRODIGY_AD_03.git
 2. Open the project in Android Studio
 3. Build and run on an emulator or Android device
 
